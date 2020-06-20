@@ -1,4 +1,4 @@
-# Fart Muffler
+# Fart Muffler 💨:dash:
 
 This repo was born as a silly test repo for designing and developing features while I worked at GitHub. But why not bring it to life?
 
